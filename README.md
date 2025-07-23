@@ -4,7 +4,9 @@
 ---
 
 ## **Project Summary**
-This CLI game was created to showcase object-oriented programming concepts through interactive gameplay in the console. It demonstrates class design, inheritance, and encapsulation while providing a simple, engaging user experience. The entire project was developed in **Java**.
+This CLI game was created to showcase object-oriented programming concepts through interactive gameplay in the console. 
+It demonstrates class design, inheritance, and encapsulation while providing a simple, engaging user experience. 
+The entire project was developed in **Java**.
 
 ---
 
