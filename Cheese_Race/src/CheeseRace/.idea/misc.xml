@@ -3,7 +3,7 @@
   <component name="JavadocGenerationManager">
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../../../../../../Programação/Cesae Digital/Trabalhos Práticos/Projeto POO" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/../../../../../../../../Programação/Cesae Digital/Trabalhos Práticos/Projeto POO/Projeto final/Cheese_Race/src/CheeseRace/out" />
   </component>
 </project>
